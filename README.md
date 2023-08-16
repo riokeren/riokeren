@@ -1,4 +1,10 @@
-### Hi there 👋
+# Hallo semua! 👋 
+
+Perkenalkan nama saya **Rio Ferdinand Situmeang**.\
+Saya seorang mahasiswa di **Universitas Muhammadiyah Sumatera Utara** jurusan **Sistem Informasi**.\
+Saya memiliki rasa ingin tahu yang tinggi dan tidak pernah puas akan pengetahuan baru.\
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in//)ku ya.
+
 
 <!--
 **riokeren/riokeren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
