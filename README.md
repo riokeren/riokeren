@@ -2,8 +2,30 @@
 
 Perkenalkan nama saya **Rio Ferdinand Situmeang**.\
 Saya seorang mahasiswa di **Universitas Muhammadiyah Sumatera Utara** jurusan **Sistem Informasi**.\
-Saya memiliki rasa ingin tahu yang tinggi dan tidak pernah puas akan pengetahuan baru.\
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in//)ku ya.
+
+### Github Statistic 🚀
+<p align="left">
+<a href="https://github.com/riokeren">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gilangadhan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gilangadhan&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+### Reach me on 📫
+<a href="https://www.linkedin.com/in//">
+  <img align="left" width="24px" src="https://cdn.simpleicons.org/linkedin"  />
+</a>
+<a href="https://twitter.com/riosuperkeren">
+  <img align="left" width="26px" src="https://cdn.simpleicons.org/twitter" />
+</a>
+<a href="mailto:rioferdinandd17@gmail.com">
+  <img align="left" width="26px" src="https://cdn.simpleicons.org/gmail" />
+</a>
+<a href="https://www.youtube.com/channel/">
+  <img align="left" width="26px" src="https://cdn.simpleicons.org/youtube" />
+</a>
+
+<br />
 
 
 <!--
