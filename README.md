@@ -1,7 +1,7 @@
 # Hallo semua! 👋 
 
 Perkenalkan nama saya **Rio Ferdinand Situmeang**.\
-Saya seorang mahasiswa di **Universitas Muhammadiyah Sumatera Utara** jurusan **Sistem Informasi**.\
+Saya seorang mahasiswa di **Universitas Muhammadiyah Sumatera Utara** jurusan **Sistem Informasi**.
 
 ### Github Statistic 🚀
 <p align="left">
